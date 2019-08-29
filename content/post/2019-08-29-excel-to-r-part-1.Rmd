@@ -1,0 +1,36 @@
+---
+title: EXCEL TO R - PART 1
+author: Savithri Rajaraman
+date: '2019-08-29'
+categories:
+  - DATA SCIENCE
+  - R
+
+tags:
+  - EXCEL
+  - R
+ 
+slug: excel-to-r-part-1
+---
+
+This series of post is aimed to help beginners to transition from Excel to R. We will be covering most used Excel functions. 
+
+1. vlookup 
+2. transposing data
+
+## Packages required
+```{r package, message=FALSE, warning=FALSE, paged.print=TRUE}
+require(dplyr)
+```
+
+## Dataset required 
+
+```{r}
+
+```
+
+
+RESOURCES:
+
+
+

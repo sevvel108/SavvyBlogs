@@ -7,9 +7,12 @@ categories:
 tags:
   - Data Science
 authorbox: no
-menu: main
+#menu: main
 sidebar: TRUE
 ---
+
+<p>
+<a href="/">main page</a> </p>
 
 Hugo is a static site engine written in Go.sdsdd
 

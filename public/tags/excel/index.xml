@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Savvy Blogs</title>
-    <link>/tags/r/</link>
-    <description>Recent content in R on Savvy Blogs</description>
+    <title>EXCEL on Savvy Blogs</title>
+    <link>/tags/excel/</link>
+    <description>Recent content in EXCEL on Savvy Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Savvy</copyright>
     <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
       <description> This series of post is aimed to help beginners to transition from Excel to R. We will be covering most used Excel functions.
 vlookup transposing data  Packages required require(dplyr)  Dataset required RESOURCES:
  </description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hugoisforlovers/</guid>
-      <description> Visualization resources  </description>
     </item>
     
   </channel>

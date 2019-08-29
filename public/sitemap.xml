@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-science/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/excel/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/excel-to-r-part-1/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/basic-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,32 +73,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -83,13 +103,13 @@
   </url>
   
   <url>
-    <loc>/categories/data-science/</loc>
+    <loc>/tags/data-science/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/data-science/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,17 +133,7 @@
   </url>
   
   <url>
-    <loc>/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/python/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   

@@ -38,10 +38,25 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [menu]
 
   [[menu.main]]
-    name = "getting started"
+    name = "Posts"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/post/"
+    weight = -100
+    
+    
+  [[menu.main]]
+    name = "Projects"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/Project/"
+    weight = -100
+    
+   [[menu.main]]
+    name = "About"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/Aboutme/"
     weight = -100
     
 [Params.widgets]

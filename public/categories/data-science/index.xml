@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Savvy</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EXCEL TO R - PART 1</title>
+      <link>/post/excel-to-r-part-1/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/excel-to-r-part-1/</guid>
+      <description> This series of post is aimed to help beginners to transition from Excel to R. We will be covering most used Excel functions.
+vlookup transposing data  Packages required require(dplyr)  Dataset required RESOURCES:
+ </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -18,7 +29,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.sdsdd
+      <description>main page Hugo is a static site engine written in Go.sdsdd
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
 Setup Some fun facts about Hugo:
