@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   authorbox = true
   post_navigation = true
   post_meta = ["date", "categories"] # Order of post meta information
- # mainSections = ["post", "blog", "news"]
+  mainSections = ["post", "project", "RSS", "about", "resources"]
  # menu = [main, side, footer]
 
 [Params.sidebar]
@@ -35,6 +35,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist"]
 
+[menu]
+
+  [[menu.main]]
+    name = "getting started"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/post/"
+    weight = -100
+    
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)

@@ -1,9 +1,14 @@
 ---
-authorbox: false
-date: "2014-04-09"
+title: About
+author: Savvy
+date: '2014-04-09'
+categories:
+  - DATA SCIENCE
+tags:
+  - Data Science
+authorbox: no
 menu: main
-sidebar: false
-title: About Author
+sidebar: TRUE
 ---
 
 Hugo is a static site engine written in Go.sdsdd
