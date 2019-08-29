@@ -3,10 +3,10 @@ authorbox: false
 date: "2014-04-09"
 menu: main
 sidebar: false
-title: About Hugo
+title: About Author
 ---
 
-Hugo is a static site engine written in Go.
+Hugo is a static site engine written in Go.sdsdd
 
 
 It makes use of a variety of open source projects including:
