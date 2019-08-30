@@ -4,8 +4,8 @@ copyright = "&copy; 2019 Savvy"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+disqusShortname = "Any Q's" # Enable comments by entering your Disqus shortname
+googleAnalytics = "786" # Enable Google Analytics by entering your tracking id
 
 #Ignore files 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

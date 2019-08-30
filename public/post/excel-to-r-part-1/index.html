@@ -8,8 +8,9 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 	<meta property="og:title" content="EXCEL TO R - PART 1" />
-<meta property="og:description" content=" This series of post is aimed to help beginners to transition from Excel to R. We will be covering most used Excel functions.
-vlookup transposing data  Packages required require(dplyr)  Dataset required RESOURCES:
+<meta property="og:description" content=" This series of post is aimed to help beginners to transition from Excel to R. We will be covering most commonly used Excel functions/features
+Vlookup Filter Sort data Add a column  Package - dplyr
+Packages required require(dplyr)  Dataset required for this exercise RESOURCES:
  " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/post/excel-to-r-part-1/" />
@@ -24,6 +25,17 @@ vlookup transposing data  Packages required require(dplyr)  Dataset required RES
 	
 	<link rel="shortcut icon" href="/favicon.ico">
 		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', '786', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
 </head>
 <body class="body">
 	<div class="container container--outer">
@@ -80,17 +92,20 @@ vlookup transposing data  Packages required require(dplyr)  Dataset required RES
 			
 
 
-<p>This series of post is aimed to help beginners to transition from Excel to R. We will be covering most used Excel functions.</p>
+<p>This series of post is aimed to help beginners to transition from Excel to R. We will be covering most commonly used Excel functions/features</p>
 <ol style="list-style-type: decimal">
-<li>vlookup</li>
-<li>transposing data</li>
+<li>Vlookup</li>
+<li>Filter</li>
+<li>Sort data</li>
+<li>Add a column</li>
 </ol>
+<p>Package - dplyr</p>
 <div id="packages-required" class="section level2">
 <h2>Packages required</h2>
 <pre class="r"><code>require(dplyr)</code></pre>
 </div>
-<div id="dataset-required" class="section level2">
-<h2>Dataset required</h2>
+<div id="dataset-required-for-this-exercise" class="section level2">
+<h2>Dataset required for this exercise</h2>
 <p>RESOURCES:</p>
 </div>
 
@@ -125,6 +140,29 @@ vlookup transposing data  Packages required require(dplyr)  Dataset required RES
 		<a class="post-nav__link" href="/post/basic-elements/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Basic HTML Elements</p></a>
 	</div>
 </nav>
+
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "Any Q's" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
 
 
 			</div>

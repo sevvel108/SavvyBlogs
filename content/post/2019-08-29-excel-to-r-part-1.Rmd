@@ -13,19 +13,26 @@ tags:
 slug: excel-to-r-part-1
 ---
 
-This series of post is aimed to help beginners to transition from Excel to R. We will be covering most used Excel functions. 
+This series of post is aimed to help beginners to transition from Excel to R. We will be covering most commonly used Excel functions/features
 
-1. vlookup 
-2. transposing data
+1. Vlookup 
+2. Filter 
+3. Sort data 
+4. Add a column 
+
+
+Package - dplyr 
+
 
 ## Packages required
 ```{r package, message=FALSE, warning=FALSE, paged.print=TRUE}
 require(dplyr)
 ```
 
-## Dataset required 
+## Dataset required for this exercise
 
 ```{r}
+
 
 
 
