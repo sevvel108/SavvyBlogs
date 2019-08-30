@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Savvy Data Science Blog"
+title = "Savvy Data Science"
 copyright = "&copy; 2019 Savvy"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "Data Science Blog" # Subtitle of your site
+  subtitle = "Data Science - Keeping it simple" # Subtitle of your site
   description = "Savvy Blogs" # Description of your site
   opengraph = true
   twitter_cards = false
