@@ -1,6 +1,6 @@
 ---
 title: About
-author: Savvy
+author: Savithri Rajaraman
 date: '2014-04-09'
 categories:
   - DATA SCIENCE
