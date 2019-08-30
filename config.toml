@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Savvy Blogs"
+title = "Savvy Data Science Blog"
 copyright = "&copy; 2019 Savvy"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
